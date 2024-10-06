@@ -1,2 +1,3 @@
 # pyhton-x-shell
-normal code snippet using python in powershell script
+normal code snippet for calculator
+
